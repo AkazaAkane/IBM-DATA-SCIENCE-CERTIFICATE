@@ -1,4 +1,4 @@
 # IBM DATA SCIENCE CERTIFICATE
 
 ## Certification
-[Coursera](https://coursera.org/share/55c9e75f99793ca8463bb9c018d634bc)
+![Image of Yaktocat](https://github.com/AkazaAkane/IBM_DATA_SCIENCE/blob/master/Certification.png)
